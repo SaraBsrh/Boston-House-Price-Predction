@@ -42,13 +42,13 @@ pip install -r requirements.txt
 
 Execute the following script to train and save the model:
 
-python train_model.py
+python house_train_model.py
 
 3️⃣ Make Predictions
 
 Run the following script to input house details and get the predicted price:
 
-python predict.py
+python house_predict.py
 
 🔧 Future Improvements
 	•	Implement hyperparameter tuning to improve accuracy.
